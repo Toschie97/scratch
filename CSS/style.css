@@ -1,0 +1,44 @@
+h1 {
+    margin: 1em;
+}
+
+.main-title {
+    margin: 1em;
+    justify-content: center;
+    align-items: center;
+}
+
+.simple-flex-box {
+    display: flex;
+    gap: 2em;
+}
+
+.simple-flex-box-centered {
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.circle-red {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(227, 17, 17);
+    border-radius: 50%;
+}
+
+.circle-green {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(22, 214, 41);
+    border-radius: 50%;
+}
+
+.circle-blue {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(22, 128, 214);
+    border-radius: 50%;
+}
+
